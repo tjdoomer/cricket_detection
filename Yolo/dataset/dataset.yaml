@@ -1,0 +1,5 @@
+train: /home/api/Desktop/yolo/dataset/images/train
+val: /home/api/Desktop/yolo/dataset/images/val
+
+nc: 1  # Number of classes (1 for cricket)
+names: ['cricket']  # Class names
